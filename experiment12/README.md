@@ -1,4 +1,5 @@
 ## Output
+```
 Enter size of  array:
 5
 Enter values:
@@ -9,3 +10,4 @@ Enter values:
 1
 Sorted Values:
 1	3	6	7	9
+```
